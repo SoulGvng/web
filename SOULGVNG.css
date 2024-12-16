@@ -1,3 +1,18 @@
 body {
-    background: rgb(255, 255, 0);
+    background-image: url(fondo.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container {
+
+    justify-content: center;
+
+}
+.creppy {
+
+    justify-content: center;
+
 }
