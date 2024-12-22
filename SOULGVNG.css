@@ -6,13 +6,13 @@ body {
     background-attachment: fixed;
 }
 
-.container {
+div#descripcioon{
 
-    justify-content: center;
+    margin: auto;
+    width: 800px;
+    height: 1150px;
+    border: 15px solid #6C3B2A;
 
-}
-.creppy {
-
-    justify-content: center;
+    background-color: transparent;
 
 }
