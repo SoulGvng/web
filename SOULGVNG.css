@@ -4,15 +4,23 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+
 }
 
 div#descripcioon{
 
     margin: auto;
     width: 800px;
-    height: 1150px;
+    height: 1300;
     border: 15px solid #6C3B2A;
 
     background-color: transparent;
+
+}
+
+.capturas{
+
+    display: flex;
+    gap: 100px;
 
 }
